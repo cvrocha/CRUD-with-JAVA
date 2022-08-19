@@ -91,10 +91,6 @@ COMMIT;
 
 - Acesse em seu navegador e digite **http://localhost**
 - Entre no arquivo do projeto.
-- O sistema deverá estar rodando conforme o **_gif_** abaixo.
-
-
-![localhost_projetos_projeto%20final_](https://user-images.githubusercontent.com/62439381/185649719-4e89b071-e62f-4c96-8835-44ddbe355e0e.png)
 
 
 #    
