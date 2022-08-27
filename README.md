@@ -1,4 +1,4 @@
-**<h1 align="center">&nbsp;<img height="50" width="80" src="https://user-images.githubusercontent.com/62439381/185650577-c4dcc4c4-dee8-4859-ae22-f6a55b9f0559.png"> Projeto CRUD em JAVA & MySQL <img height="50" width="80" src="https://user-images.githubusercontent.com/62439381/185650577-c4dcc4c4-dee8-4859-ae22-f6a55b9f0559.png">&nbsp;</h1>**
+**<h1 align="center">&nbsp;<img height="80" width="80" src="https://user-images.githubusercontent.com/62439381/185650577-c4dcc4c4-dee8-4859-ae22-f6a55b9f0559.png"> Projeto CRUD em JAVA & MySQL <img height="80" width="80" src="https://user-images.githubusercontent.com/62439381/185650577-c4dcc4c4-dee8-4859-ae22-f6a55b9f0559.png">&nbsp;</h1>**
 
 Desenvolvimento de um simples projeto CRUD (Sistema de uma aula EAD) utilizando o acesso a banco de dados com o MySQL e linguagem JAVA com swing
 
